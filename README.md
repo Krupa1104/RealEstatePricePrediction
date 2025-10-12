@@ -1,9 +1,23 @@
 # Real-Estate Price Prediction for a Metropolitan Area
 
-## Overview
-This project predicts real-estate property prices in Kolkata using Linear Regression and performs K-Means clustering for market segmentation. Feature importance visualization is included.
+## Project Overview
+This project predicts real-estate property prices in Kolkata using **Linear Regression** and performs **K-Means clustering** for market segmentation. It also visualizes **feature importance** to understand which factors influence property prices. The goal is to help buyers, sellers, and analysts estimate fair market prices and identify property segments.
 
-## Setup
-1. Clone the repository:
+## Dataset
+- Place `real_estate_properties.csv` in the project folder.  
+- The dataset contains columns: Name, Area, Furnishing, Transaction Type, Status, and Price.
+
+## Installation
+Install the required Python libraries:
+
 ```bash
-git clone https://github.com/Krupa1104/RealEstatePricePrediction.git
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+
+## How to Run :
+
+Open the project folder in VS Code or Jupyter Notebook.
+
+Open the notebook file: or code.ipynb.
+
+Run all cells sequentially.
