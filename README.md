@@ -18,4 +18,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 Open the project folder in VS Code or Jupyter Notebook.
 
-Open the notebook file: or code.ipynb.
+Open the notebook file: code.ipynb.
+
+Run all cells sequentially. 
