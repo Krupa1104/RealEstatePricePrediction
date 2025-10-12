@@ -12,7 +12,7 @@ Install the required Python libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
+```
 
 ## How to Run :
 
